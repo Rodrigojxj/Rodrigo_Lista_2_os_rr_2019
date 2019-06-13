@@ -1,0 +1,3 @@
+/home/Rodrigojxj/Documentos/Rodrigo_Lista_2_os_rr_2019/Questao_4/listaTarefas.ko
+/home/Rodrigojxj/Documentos/Rodrigo_Lista_2_os_rr_2019/Questao_4/listaTarefas.o
+
